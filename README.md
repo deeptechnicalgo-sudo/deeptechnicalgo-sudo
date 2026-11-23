@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there I'm Eldsoqe 👋
 
-<!--
-**deeptechnicalgo-sudo/deeptechnicalgo-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Next.js & React
 
-Here are some ideas to get you started:
+I build modern, responsive, and user-friendly websites
+that help businesses establish their online presence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 Web Developer
+- 🚀 Focused on Next.js and React
+- 🌐 Building modern web experiences
+- 📚 Always learning and improving
+- 🤝 Open to freelance opportunities
+
+## Tech Stack
+
+- JavaScript
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+- Git & GitHub
+
+## Featured Projects
+
+Coming soon...
+
+## Contact
+
+- Portfolio: https://portfolio-pro-musa.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/moussa-eldsoqe-085182386
+- Email: Moussawork@proton.me

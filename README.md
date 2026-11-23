@@ -15,17 +15,7 @@ that help businesses establish their online presence.
 
 ## Tech Stack
 
-- JavaScript
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-- Git & GitHub
-
-## Featured Projects
-
-Coming soon...
+- JavaScript - React - Next.js - HTML - CSS - Git & GitHub
 
 ## Contact
 
